@@ -10,7 +10,7 @@ An interactive web application to explore 349 cheese varieties from 37 countries
 - 📊 **Analytics Dashboard**: View statistics and interactive charts
 
 ## Live Demo
-Visit: https://YOUR-USERNAME.github.io/cheese-explorer/
+Visit: https://kinhai-collab.github.io/EverythingCheese/
 
 ## Data
 Contains 349 cheese varieties including:
